@@ -9,5 +9,6 @@
     --bluish: #4d96ff;
     --purplish: #a66cff;
     --nav-color: var(--purplish);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    --home-color: var(--bluish);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
