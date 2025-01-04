@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+/* Resources:
+* * Color Palette: https://www.color-hex.com/color-palette/1054140
+*/
+
+:root {
+    --reddish: #ff6b6b;
+    --yellowish: #ffd93d;
+    --greenish: #6bcb77;
+    --bluish: #4d96ff;
+    --purplish: #a66cff;
+    --nav-color: var(--purplish);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
