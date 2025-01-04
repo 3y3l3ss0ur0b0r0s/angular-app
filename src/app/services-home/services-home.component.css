@@ -1,0 +1,23 @@
+.myServices { 
+    padding: 20px;
+    border: 2px solid var(--services-color);
+    width: 25%;
+    min-width: fit-content;
+    margin:  40px auto; 
+    font-size: 20px; 
+    background: var(--services-color); 
+    border-radius: 15px;
+    color: hsl(from var(--services-color) h 100% 18%);
+    box-shadow: 4px 4px 6px #ccc;
+ }
+ 
+ .businessCardTitle { 
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    text-align:center;
+ }
+ 
+ ul { 
+    list-style-type: disc;
+ }
