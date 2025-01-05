@@ -11,5 +11,6 @@
     --nav-color: var(--purplish);
     --home-color: var(--bluish);
     --services-color: var(--yellowish);
+    --projects-color: var(--yellowish);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
